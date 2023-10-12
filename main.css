@@ -1,0 +1,18 @@
+html {
+    font-size: 23px;
+}
+
+body {
+    background-color: #333;
+    color: beige;
+}
+a {
+    color: azure;
+}
+a:visited{
+    color: aliceblue;
+}
+
+a:hover, a:active {
+    color: #eee;
+}
